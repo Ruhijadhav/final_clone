@@ -1,3 +1,2 @@
-# hello
-
-this is first project of the the development on css
+# Hello 
+hello everyone in this repository I have the create a clone of the Spotify page by using the HTML and CSS.
